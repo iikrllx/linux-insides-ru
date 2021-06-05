@@ -5,7 +5,7 @@
 
 1. Нажмите кнопку fork:
 
-    ![fork](http://oi58.tinypic.com/jj2trm.jpg)
+    ![fork](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
 
 2. Клонируйте репозиторий из вашего аккаунта с помощью:
 
