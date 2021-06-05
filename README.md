@@ -5,7 +5,7 @@ Linux Inside на русском
 
 Серия статей о ядре Linux и его внутреннем устройстве.
 
-**Цель проста (от автора)** - поделиться своим скромным знанием о внутренностях ядра Linux и помочь людям, которые заинтересованы низкоуровневыми подробостями Linux.
+**Цель проста (от автора)** - поделиться своим скромным знанием о внутренностях ядра Linux и помочь людям, которые заинтересованы низкоуровневыми подробостями Linux. Начать прочтение книги можно [отсюда](https://github.com/proninyaroslav/linux-insides-ru/blob/master/SUMMARY.md).
 
 **Вопросы/Предложения по переводу**: Не стесняйтесь задавать любые вопросы и предложения мне на [email](mailto:proninyaroslav@mail.ru).
 
@@ -22,9 +22,20 @@ Linux Inside на русском
  - **Liberapay**: [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/proninyaroslav/donate)
  - **Bitcoin**: `1Af9DgxtWvVp6bFiYQw2MeWtRzTXshRYpB`
 
-Таккже вы можете поддержать **оригинального автора** следующими способами:
+Так же вы можете поддержать **оригинального автора** следующими способами:
 
 [![Помочь с помощью bitcoin](https://img.shields.io/badge/donate-bitcoin-green.svg)](https://www.coinbase.com/checkouts/0bfa452a41cf52c0b3f99500b4f31685) [![Присоединиться к чату https://gitter.im/0xAX/linux-insides](https://badges.gitter.im/0xAX/linux-insides.svg)](https://gitter.im/0xAX/linux-insides?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Книга доступна на других языках
+---------------
+
+  * [Бразильский Португальский](https://github.com/mauri870/linux-insides)
+  * [Китайский](https://github.com/MintCN/linux-insides-zh)
+  * [Японский](https://github.com/tkmru/linux-insides-ja)
+  * [Корейский](https://github.com/junsooo/linux-insides-ko)
+  * [Ангийский](https://github.com/0xAX/linux-insides)
+  * [Испанский](https://github.com/leolas95/linux-insides)
+  * [Турецкий](https://github.com/ayyucedemirbas/linux-insides_Turkish)
 
 Участие
 ---------------
@@ -48,7 +59,7 @@ Linux Inside на русском
 
 #### Отправка писем в список рассылки
 
-Просто отправляйте письма по адресу `kernelhacking@googlegroups.com`. Основы использование те же самые, что и у других списков рассылок, работающих на mailman.
+Просто отправляйте письма по адресу `kernelhacking@googlegroups.com`. Основы использования те же самые, что и у других списков рассылок, работающих на mailman.
 
 #### Архив
 
