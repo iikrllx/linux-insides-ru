@@ -33,7 +33,7 @@ Linux Inside на русском
   * [Китайский](https://github.com/MintCN/linux-insides-zh)
   * [Японский](https://github.com/tkmru/linux-insides-ja)
   * [Корейский](https://github.com/junsooo/linux-insides-ko)
-  * [Ангийский](https://github.com/0xAX/linux-insides)
+  * [Английский](https://github.com/0xAX/linux-insides)
   * [Испанский](https://github.com/leolas95/linux-insides)
   * [Турецкий](https://github.com/ayyucedemirbas/linux-insides_Turkish)
 
